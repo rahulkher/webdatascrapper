@@ -13,8 +13,8 @@ This repository provides a toolset for scraping Twitter data and generating prom
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/rahulkher/webdatascrapper.git
+   cd <your-project-directory>
    ```
 2. Install the required dependencies:
    ```sh
